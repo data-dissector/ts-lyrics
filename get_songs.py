@@ -123,7 +123,7 @@ if do_add_album_keys:
         album_song_dict[album] = []
 
 
-## load formatted song and album titles and do more stuff ##
+## load formatted song and album titles ##
 do_load_titles = True
 if do_load_titles:
     print(album_song_dict)
