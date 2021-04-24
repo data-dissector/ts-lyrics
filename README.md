@@ -26,6 +26,9 @@ https://lyricsovh.docs.apiary.io/#reference
 https://github.com/amueller/word_cloud
 
 
+https://github.com/cristobalvch/Music-Lyrics-NLP
+
+
 https://github.com/matplotlib/matplotlib
 
 
