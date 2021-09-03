@@ -16,6 +16,7 @@ Scripts:
 3. Perform analysis: sentiment_analysis.ipynb
 
 Resources used:
+
 https://docs.genius.com/#artists-h2
 
 
